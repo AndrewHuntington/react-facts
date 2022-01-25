@@ -1,0 +1,4 @@
+/* For some reason, I can't get this to work with a Tailwind class, so I had to create a CSS file to import the background image. */
+main {
+  background-image: url('../images/react-icon-large.png');
+}
