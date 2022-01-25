@@ -4,7 +4,7 @@ import Main from './components/Main';
 
 function App() {
   return (
-    <div className="w-[550px] h-[460px]">
+    <div className="w-[550px] h-[550px] bg-[#282D35]">
       <Navbar />
       <Main />
     </div>
